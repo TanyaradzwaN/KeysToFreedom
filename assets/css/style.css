@@ -2193,8 +2193,8 @@ table img {
 }
 
 .sigma_header .sigma_header-top-links.important-links li a{
-  font-size: 13px;
-  padding: 7px 0;
+  font-size: 11px;
+  padding: 6.5px 0;
   color: var(--thm-secondary);
 }
 
@@ -15830,3 +15830,22 @@ background-color: var(--thm-border);
 
 }
 
+.sigma_header .sigma_header-top-links.important-links li a {
+   
+}
+
+.sigma_header-top-nav li a i {
+    font-size: 15px;
+}
+
+.sigma_header-top-nav li a{
+    font-size: 13px!important;
+    padding: 7px 0!important;
+}
+.sigma_header-controls-inner{
+  display:none!important;
+}
+.sigma_banner .banner-slider-inner {    
+  padding: 240px 0 170px;
+}
+  
