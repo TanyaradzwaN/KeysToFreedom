@@ -2193,8 +2193,8 @@ table img {
 }
 
 .sigma_header .sigma_header-top-links.important-links li a{
-  font-size: 12px;
-  padding: 7px 0!important;
+  font-size: 11px;
+  padding: 7px 0;
   color: var(--thm-secondary);
 }
 
