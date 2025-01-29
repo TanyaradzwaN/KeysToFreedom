@@ -459,3 +459,8 @@ noscript p{
 		background-position: 8px 11px !important;
 	}
 }
+
+
+.sigma_header .sigma_header-top-links.important-links li a {
+	padding:10px 0!important;
+  }

@@ -1715,7 +1715,7 @@ table img {
 }
 .sigma_header .sigma_logo-wrapper .sigma_logo{
   max-width: 130px;
-}
+} 
 
 .sigma_header .navbar-nav {
   flex-direction: row;
@@ -2193,8 +2193,8 @@ table img {
 }
 
 .sigma_header .sigma_header-top-links.important-links li a{
-  font-size: 16px;
-  padding: 30px 0;
+  font-size: 12px;
+  padding: 7px 0!important;
   color: var(--thm-secondary);
 }
 
@@ -2203,7 +2203,7 @@ table img {
   height: 40px;
   border: 1px solid var(--thm-border);
   border-radius: 50%;
-  font-size: 20px;
+  font-size: 14px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2392,7 +2392,6 @@ table img {
 
 .sigma_header.style-8 .sigma_logo-wrapper{
   padding: 20px 65px 20px 0;
-  border-right: 1px solid var(--thm-border);
 }
 
 .sigma_header.style-8 .sigma_header-top-links.important-links{
@@ -15830,3 +15829,4 @@ background-color: var(--thm-border);
   }
 
 }
+
