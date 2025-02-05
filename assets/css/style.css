@@ -5,12 +5,12 @@
 :root {
   --thm-font: "Baloo 2", cursive;
   --thm-b-font: "Rubik", sans-serif; /* Body font */
-  --thm-base: #0bf409; /* Primary color */
+  --thm-base: #24864c; /* Primary color */
   /* --thm-base-hover: #137e79; Primary hover */
-  --thm-base-hover: #345af4;/*/Primary hover */
+  --thm-base-hover: #1a2e4f;/*/Primary hover */
   --thm-base-rgb: 40, 144, 139; /* Primary rgb */
   --thm-base-hue: #f2fffe; /* Primary low hue */
-  --thm-secondary: #345af4; /* Secondary */
+  --thm-secondary: #1a2e4f; /* Secondary */
   --thm-secondary-hover: #070606; /* Secondary */
   --thm-secondary-rgb: 45, 41, 41; /* Secondary rgb */
   --thm-b-text: #686a6f; /* Body text */
